@@ -1,4 +1,4 @@
-# [MLL] Periodic Mob Spawner
+# Periodic Mob Spawner
 ## Highly customizable Minecraft Datapack focusing on Spawning a Random Mob every X seconds.
 
 This project is my very first take on a Minecraft Datapack, therefore not very good, nor efficient. This Datapack uses PRNG (with help from u/mingshi3_uiuc) to randomize the mob spawn. The Datapack features the following commands:
@@ -7,7 +7,7 @@ This project is my very first take on a Minecraft Datapack, therefore not very g
 
 This datapack has been tested and works in following versions:
 
-* 1.21.3
+* 1.21.4
 
 ## How to install this datapack
 It's very simple! Just follow these instructions:
