@@ -10,4 +10,4 @@ scoreboard players add RNG RNG_Variable 1
 
 execute run scoreboard players operation @s number = RNG RNG_Variable
 scoreboard players set @a ticks 0
-execute as @a run function mll:spawning
+execute as @a run function pms:spawning

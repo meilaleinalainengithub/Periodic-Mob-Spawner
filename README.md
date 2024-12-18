@@ -5,7 +5,7 @@
 
 This project is my very first take on a Minecraft Datapack, therefore not very good, nor efficient. This Datapack uses PRNG (with help from u/mingshi3_uiuc) to randomize the mob spawn. The Datapack features the following commands:
 
-* /function mll:spawn_timer {Timer:x} - x=ticks before next mob spawn
+* /function pms:spawn_timer {Timer:x} - x=ticks before next mob spawn
 
 This datapack has been tested and works in following versions:
 

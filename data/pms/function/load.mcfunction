@@ -1,5 +1,5 @@
 say §e-----------------------------------
-say §6MLL: Random Mobs (30s) &fhas Loaded
+say §6MLL: Periodic Mob Spawning &fhas Loaded
 say §7thanks to u/mingshi3_uiuc for the randomizer
 say §e-----------------------------------
 

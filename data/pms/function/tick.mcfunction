@@ -2,4 +2,4 @@
 
 scoreboard players add @a ticks 1
 
-execute as @a if score @s ticks >= @s timer run function mll:random
+execute as @a if score @s ticks >= @s timer run function pms:random
