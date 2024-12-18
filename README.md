@@ -1,3 +1,5 @@
+![Periodic Mob Spawner Icon](https://https://github.com/meilaleinalainengithub/Periodic-Mob-Spawner/blob/main/pack.png?raw=true)
+
 # Periodic Mob Spawner
 ## Highly customizable Minecraft Datapack focusing on Spawning a Random Mob every X seconds.
 
