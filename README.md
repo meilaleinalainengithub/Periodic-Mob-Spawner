@@ -20,8 +20,8 @@ It's very simple! Just follow these instructions:
 
 The Datapack will begin as soon as you join the world, to disable/enable the datapack run:
 
-* /datapack disable "file/Random Mob 30s"
-* /datapack enable "file/Random Mob 30s"
+* /datapack disable "file/Periodic-Mob-Spawner"
+* /datapack enable "file/Periodic-Mob-Spawner"
 
 ## Found a bug?
 You can do the one of the following:
