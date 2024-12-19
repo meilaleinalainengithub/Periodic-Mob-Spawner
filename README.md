@@ -13,7 +13,7 @@ This datapack has been tested and works in following versions:
 
 ## How to install this datapack
 It's very simple! Just follow these instructions:
-1. Download the RandomMob.zip from releases.
+1. Download the Periodic-Mob-Spawner.zip from releases.
 2. Unzip the zipped folder.
 3. Go to ".minecraft\saves\yourworld\datapacks" and drag the datapack in there. 
 3. Alternatively, you can create a new world in-game, go to "More", click on "Data Packs" and drag the datapack in there.
