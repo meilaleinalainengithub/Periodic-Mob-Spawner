@@ -1,1 +1,1 @@
-$scoreboard players set @s timer $(Timer)
+$scoreboard players set @s pms_timer $(Timer)
